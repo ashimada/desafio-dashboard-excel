@@ -1,6 +1,7 @@
 # Dashboard em excel
-
+<p align="center">
 <a href="https://github.com/ashimada/desafio-dashboard-excel/blob/main/dashboard.xlsx" title="View Excel"> Clique aqui para acessar o dashboard</a>
+</p>
 
 ## Instruções
 Clique nas opções de subscrição (Subscription Type) na lateral esquerda para filtrar os dados.
